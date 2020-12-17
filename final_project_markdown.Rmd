@@ -1,5 +1,5 @@
 ---
-title: "Final Project"
+title: "Data Analysis Project"
 author: "James King"
 date: "12Dec2020"
 output:
